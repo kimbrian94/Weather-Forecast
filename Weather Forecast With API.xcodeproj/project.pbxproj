@@ -13,6 +13,7 @@
 		A56AEEED24C74AE500B9EB59 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A56AEEEB24C74AE500B9EB59 /* Main.storyboard */; };
 		A56AEEEF24C74AE800B9EB59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A56AEEEE24C74AE800B9EB59 /* Assets.xcassets */; };
 		A56AEEF224C74AE800B9EB59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A56AEEF024C74AE800B9EB59 /* LaunchScreen.storyboard */; };
+		A56AEEFA24C74BDA00B9EB59 /* kazuend-2KXEb_8G5vo-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A56AEEF924C74BDA00B9EB59 /* kazuend-2KXEb_8G5vo-unsplash.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A56AEEEE24C74AE800B9EB59 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A56AEEF124C74AE800B9EB59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A56AEEF324C74AE800B9EB59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A56AEEF924C74BDA00B9EB59 /* kazuend-2KXEb_8G5vo-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "kazuend-2KXEb_8G5vo-unsplash.jpg"; path = "../../../../Downloads/kazuend-2KXEb_8G5vo-unsplash.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A56AEEEE24C74AE800B9EB59 /* Assets.xcassets */,
 				A56AEEF024C74AE800B9EB59 /* LaunchScreen.storyboard */,
 				A56AEEF324C74AE800B9EB59 /* Info.plist */,
+				A56AEEF924C74BDA00B9EB59 /* kazuend-2KXEb_8G5vo-unsplash.jpg */,
 			);
 			path = "Weather Forecast With API";
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				A56AEEF224C74AE800B9EB59 /* LaunchScreen.storyboard in Resources */,
 				A56AEEEF24C74AE800B9EB59 /* Assets.xcassets in Resources */,
+				A56AEEFA24C74BDA00B9EB59 /* kazuend-2KXEb_8G5vo-unsplash.jpg in Resources */,
 				A56AEEED24C74AE500B9EB59 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
